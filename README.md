@@ -1,37 +1,25 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800615&height=120&section=header"/>
+# José Amauri Patrício
 
+Estudante de **Análise e Desenvolvimento de Sistemas na UFC** (Universidade Federal do Ceará), com foco em **back-end**.
+Desenvolvo com **Python e Django** e estou estudando **Go**.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800615&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+José+Amauri;I+study+analysis+and+systems+development+at+UFC;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+🔎 Procurando **estágio em back-end**, com disponibilidade a partir de dezembro de 2026.
 
+## Tecnologias
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoseAmauriOP&bg_color=000000&color=800615&line=240675&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
-### Main skills:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117)&nbsp;
+- **Uso em projetos:** Python, Django, HTML, CSS, SQLite, Git e GitHub
+- **Estudando agora:** Go
+- **Já usei:** Selenium (automação), Godot / GDScript (jogos)
 
- 
-### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
- 
-<!-- ### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-  -->
+## Projetos em destaque
 
-### Studying in this moment:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117)&nbsp;
+| Projeto | O que é | Stack |
+|---|---|---|
+| [todo-list](https://github.com/JoseAmauriOP/todo-list) | Lista de tarefas com CRUD completo, ModelForms e validação | Python, Django, SQLite |
+| [blog](https://github.com/JoseAmauriOP/blog) | Blog com listagem de artigos, página de leitura e comentários | Python, Django |
+| [calculadora_RPC](https://github.com/JoseAmauriOP/calculadora_RPC) | Calculadora cliente-servidor usando chamadas RPC | Go |
 
-<!-- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JoseAmauriOP}/count.svg" /></p> 
-<br></div> -->
+## Contato
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800615&height=120&section=footer"/>
+- LinkedIn: [linkedin.com/in/amauri-patricio-5a121435b](https://www.linkedin.com/in/amauri-patricio-5a121435b)
+- E-mail: joseamauripatricio08@gmail.com
